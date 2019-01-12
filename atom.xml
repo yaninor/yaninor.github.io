@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/linvinglor/"/>
+  <link href="https://github.com/yaninor/"/>
   <updated>2019-01-12T08:38:29.001Z</updated>
-  <id>https://github.com/linvinglor/</id>
+  <id>https://github.com/yaninor/</id>
   
   <author>
-    <name>linvinglor</name>
+    <name>yaninor</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>用canvas制作一个简单的随机验证码</title>
-    <link href="https://github.com/linvinglor/2019/01/12/canvas%E9%AA%8C%E8%AF%81%E7%A0%81/"/>
-    <id>https://github.com/linvinglor/2019/01/12/canvas验证码/</id>
+    <link href="https://github.com/yaninor/2019/01/12/canvas%E9%AA%8C%E8%AF%81%E7%A0%81/"/>
+    <id>https://github.com/yaninor/2019/01/12/canvas验证码/</id>
     <published>2019-01-12T08:35:15.000Z</published>
     <updated>2019-01-12T08:38:29.001Z</updated>
     
@@ -32,19 +32,19 @@
     
     </summary>
     
-      <category term="css3" scheme="https://github.com/linvinglor/categories/css3/"/>
+      <category term="css3" scheme="https://github.com/yaninor/categories/css3/"/>
     
     
-      <category term="html5" scheme="https://github.com/linvinglor/tags/html5/"/>
+      <category term="html5" scheme="https://github.com/yaninor/tags/html5/"/>
     
-      <category term="css3" scheme="https://github.com/linvinglor/tags/css3/"/>
+      <category term="css3" scheme="https://github.com/yaninor/tags/css3/"/>
     
   </entry>
   
   <entry>
     <title>炫酷的canvas粒子特效</title>
-    <link href="https://github.com/linvinglor/2019/01/12/canvas/"/>
-    <id>https://github.com/linvinglor/2019/01/12/canvas/</id>
+    <link href="https://github.com/yaninor/2019/01/12/canvas/"/>
+    <id>https://github.com/yaninor/2019/01/12/canvas/</id>
     <published>2019-01-12T08:31:36.000Z</published>
     <updated>2019-01-12T08:33:06.754Z</updated>
     
@@ -60,19 +60,19 @@
     
     </summary>
     
-      <category term="css3" scheme="https://github.com/linvinglor/categories/css3/"/>
+      <category term="css3" scheme="https://github.com/yaninor/categories/css3/"/>
     
     
-      <category term="html5" scheme="https://github.com/linvinglor/tags/html5/"/>
+      <category term="html5" scheme="https://github.com/yaninor/tags/html5/"/>
     
-      <category term="css3" scheme="https://github.com/linvinglor/tags/css3/"/>
+      <category term="css3" scheme="https://github.com/yaninor/tags/css3/"/>
     
   </entry>
   
   <entry>
     <title>ES6学习笔记-Set和Map</title>
-    <link href="https://github.com/linvinglor/2019/01/12/ES6%E7%9A%84set%E5%92%8Cmap/"/>
-    <id>https://github.com/linvinglor/2019/01/12/ES6的set和map/</id>
+    <link href="https://github.com/yaninor/2019/01/12/ES6%E7%9A%84set%E5%92%8Cmap/"/>
+    <id>https://github.com/yaninor/2019/01/12/ES6的set和map/</id>
     <published>2019-01-12T08:28:17.000Z</published>
     <updated>2019-01-12T08:30:25.957Z</updated>
     
@@ -84,17 +84,17 @@
     
     </summary>
     
-      <category term="javascript" scheme="https://github.com/linvinglor/categories/javascript/"/>
+      <category term="javascript" scheme="https://github.com/yaninor/categories/javascript/"/>
     
     
-      <category term="ES6" scheme="https://github.com/linvinglor/tags/ES6/"/>
+      <category term="ES6" scheme="https://github.com/yaninor/tags/ES6/"/>
     
   </entry>
   
   <entry>
     <title>ES6学习笔记-箭头函数</title>
-    <link href="https://github.com/linvinglor/2019/01/12/ES6/"/>
-    <id>https://github.com/linvinglor/2019/01/12/ES6/</id>
+    <link href="https://github.com/yaninor/2019/01/12/ES6/"/>
+    <id>https://github.com/yaninor/2019/01/12/ES6/</id>
     <published>2019-01-12T08:26:22.000Z</published>
     <updated>2019-01-12T08:30:16.288Z</updated>
     
@@ -107,17 +107,17 @@
     
     </summary>
     
-      <category term="javascript" scheme="https://github.com/linvinglor/categories/javascript/"/>
+      <category term="javascript" scheme="https://github.com/yaninor/categories/javascript/"/>
     
     
-      <category term="ES6" scheme="https://github.com/linvinglor/tags/ES6/"/>
+      <category term="ES6" scheme="https://github.com/yaninor/tags/ES6/"/>
     
   </entry>
   
   <entry>
     <title>我的php总结</title>
-    <link href="https://github.com/linvinglor/2019/01/12/php%E6%80%BB%E7%BB%93/"/>
-    <id>https://github.com/linvinglor/2019/01/12/php总结/</id>
+    <link href="https://github.com/yaninor/2019/01/12/php%E6%80%BB%E7%BB%93/"/>
+    <id>https://github.com/yaninor/2019/01/12/php总结/</id>
     <published>2019-01-12T08:18:35.000Z</published>
     <updated>2019-01-12T08:39:09.252Z</updated>
     
@@ -132,17 +132,17 @@
     
     </summary>
     
-      <category term="php" scheme="https://github.com/linvinglor/categories/php/"/>
+      <category term="php" scheme="https://github.com/yaninor/categories/php/"/>
     
     
-      <category term="php" scheme="https://github.com/linvinglor/tags/php/"/>
+      <category term="php" scheme="https://github.com/yaninor/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>php与bom头的惨痛经历</title>
-    <link href="https://github.com/linvinglor/2019/01/12/php/"/>
-    <id>https://github.com/linvinglor/2019/01/12/php/</id>
+    <link href="https://github.com/yaninor/2019/01/12/php/"/>
+    <id>https://github.com/yaninor/2019/01/12/php/</id>
     <published>2019-01-12T08:11:48.000Z</published>
     <updated>2019-01-12T08:16:26.008Z</updated>
     
@@ -157,17 +157,17 @@
     
     </summary>
     
-      <category term="php" scheme="https://github.com/linvinglor/categories/php/"/>
+      <category term="php" scheme="https://github.com/yaninor/categories/php/"/>
     
     
-      <category term="php" scheme="https://github.com/linvinglor/tags/php/"/>
+      <category term="php" scheme="https://github.com/yaninor/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>Git 重写历史</title>
-    <link href="https://github.com/linvinglor/2019/01/12/Git%20%E9%87%8D%E5%86%99%E5%8E%86%E5%8F%B2/"/>
-    <id>https://github.com/linvinglor/2019/01/12/Git 重写历史/</id>
+    <link href="https://github.com/yaninor/2019/01/12/Git%20%E9%87%8D%E5%86%99%E5%8E%86%E5%8F%B2/"/>
+    <id>https://github.com/yaninor/2019/01/12/Git 重写历史/</id>
     <published>2019-01-12T08:05:56.000Z</published>
     <updated>2019-01-12T08:38:57.974Z</updated>
     
@@ -183,19 +183,19 @@
     
     </summary>
     
-      <category term="git" scheme="https://github.com/linvinglor/categories/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/categories/git/"/>
     
     
-      <category term="git" scheme="https://github.com/linvinglor/tags/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/tags/git/"/>
     
-      <category term="github" scheme="https://github.com/linvinglor/tags/github/"/>
+      <category term="github" scheme="https://github.com/yaninor/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>git 生成SSH key</title>
-    <link href="https://github.com/linvinglor/2019/01/12/key/"/>
-    <id>https://github.com/linvinglor/2019/01/12/key/</id>
+    <link href="https://github.com/yaninor/2019/01/12/key/"/>
+    <id>https://github.com/yaninor/2019/01/12/key/</id>
     <published>2019-01-12T08:02:46.000Z</published>
     <updated>2019-01-12T08:39:14.387Z</updated>
     
@@ -211,19 +211,19 @@
     
     </summary>
     
-      <category term="git" scheme="https://github.com/linvinglor/categories/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/categories/git/"/>
     
     
-      <category term="git" scheme="https://github.com/linvinglor/tags/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/tags/git/"/>
     
-      <category term="github" scheme="https://github.com/linvinglor/tags/github/"/>
+      <category term="github" scheme="https://github.com/yaninor/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>Git commit 规范</title>
-    <link href="https://github.com/linvinglor/2019/01/11/My-New-Post/"/>
-    <id>https://github.com/linvinglor/2019/01/11/My-New-Post/</id>
+    <link href="https://github.com/yaninor/2019/01/11/My-New-Post/"/>
+    <id>https://github.com/yaninor/2019/01/11/My-New-Post/</id>
     <published>2019-01-11T12:28:01.000Z</published>
     <updated>2019-01-12T08:00:22.073Z</updated>
     
@@ -239,19 +239,19 @@
     
     </summary>
     
-      <category term="git" scheme="https://github.com/linvinglor/categories/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/categories/git/"/>
     
     
-      <category term="git" scheme="https://github.com/linvinglor/tags/git/"/>
+      <category term="git" scheme="https://github.com/yaninor/tags/git/"/>
     
-      <category term="github" scheme="https://github.com/linvinglor/tags/github/"/>
+      <category term="github" scheme="https://github.com/yaninor/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/linvinglor/2019/01/11/hello-world/"/>
-    <id>https://github.com/linvinglor/2019/01/11/hello-world/</id>
+    <link href="https://github.com/yaninor/2019/01/11/hello-world/"/>
+    <id>https://github.com/yaninor/2019/01/11/hello-world/</id>
     <published>2019-01-11T12:25:01.603Z</published>
     <updated>2019-01-11T12:25:01.603Z</updated>
     
